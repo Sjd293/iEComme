@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework:spring-websocket:5.3.19">
+    <CLASSES>
+      <root url="jar://D:/a大二（下）/software_project/maven环境/maven环境/repository/org/springframework/spring-websocket/5.3.19/spring-websocket-5.3.19.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/a大二（下）/software_project/maven环境/maven环境/repository/org/springframework/spring-websocket/5.3.19/spring-websocket-5.3.19-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/a大二（下）/software_project/maven环境/maven环境/repository/org/springframework/spring-websocket/5.3.19/spring-websocket-5.3.19-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
